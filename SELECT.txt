@@ -1,0 +1,6 @@
+SELECT 
+  nxFacilitySeq
+  ,facilityName
+  ,nxAccommodationSeq
+  ,facilityIcon
+FROM nxFacility
